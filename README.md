@@ -35,8 +35,7 @@ python main.py -t pull-up
 
 ## Contributors
 
-👤 **Raiyan Bashir Mahin**
+👤 *Vivekananda Reddy Challa * Lakshya Tyagi*
 
-* LinkedIn: [@raiyanmahin](https://www.linkedin.com/in/raiyanmahin/)
-* GitHub: [@RaiyanMahin](https://github.com/RaiyanMahin)
+
 
