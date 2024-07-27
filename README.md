@@ -33,9 +33,6 @@ python main.py -t pull-up
 
 ```
 
-## Contributors
-
-👤 *Vivekananda Reddy Challa * Lakshya Tyagi*
 
 
 
