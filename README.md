@@ -32,6 +32,8 @@ python main.py -t pull-up
 # or python main.py -t squat
 
 ```
+## Contributors
+ 1.Yashwanth Singh 2.Vivekananda Reddy 
 
 
 
